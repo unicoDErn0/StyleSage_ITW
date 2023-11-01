@@ -4,15 +4,13 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
   }
-  body{
-  background-image: url(assets/images/loginbg1.jpg);
-  }    
   section{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
     height: 100vh;
+    background-image: url(./assets/images/loginbg1.jpg);
     background-size: cover;
     background-position: center;
     animation: animateBg 5s linear infinite;
